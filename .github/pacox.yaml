@@ -1,0 +1,6 @@
+pacox:
+  enabled: true
+  endpoints:
+    vanex: https://vanex.com
+    berex: https://berex.com
+    core: https://core.com
