@@ -3,4 +3,4 @@ pacox:
   endpoints:
     vanex: https://vanex.com
     berex: https://berex.com
-    core: https://core.com
+    core: https://chat.googleapis.com/v1/spaces/AAAA3hfeL1k/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=LesYRddhFb2PDbHWPLaKgStaol8xvQTCWJnQel4C7e0%3D
